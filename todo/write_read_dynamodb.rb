@@ -1,3 +1,5 @@
+#PJFT
+
 require 'aws-sdk-core'
 Aws.use_bundled_cert!
 
