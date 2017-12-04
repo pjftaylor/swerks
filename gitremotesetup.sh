@@ -1,2 +1,2 @@
-git remote add origin git@github.com:pjftaylor/todo.git
+git remote add origin git@github.com:pjftaylor/swerks.git
 
